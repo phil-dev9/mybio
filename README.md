@@ -7,5 +7,6 @@
 - CSS
 - JavaScript/TypeScript
 - React
+- Node.js/Express.js
 - Tailwind
 - Java
