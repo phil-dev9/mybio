@@ -4,7 +4,7 @@
 ### Skills
 - HTML
 - CSS
-- JavaScript/TypeScript
+- JavaScript
 - React
 - Node.js/Express.js
 - Tailwind
