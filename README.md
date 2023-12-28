@@ -6,6 +6,7 @@
 - CSS
 - JavaScript
 - React
-- Node.js/Express.js
+- Node.js
+- Express.js
 - Tailwind
 - Java
