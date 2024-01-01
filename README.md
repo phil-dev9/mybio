@@ -1,7 +1,7 @@
-### Hi there 👋
+### 👋 Hi there 
 - I'm a college student studying computer science.
 
-### :rocket: Tools I Know
+### 🚀 Tools I Know
 - HTML
 - CSS
 - JavaScript
