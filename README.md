@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm a college student studying computer science.
 
-### Skills
+### Tools I Know
 - HTML
 - CSS
 - JavaScript
