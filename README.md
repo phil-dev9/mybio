@@ -11,4 +11,3 @@
 - Tailwind
 - Java
 
-![Currently coding...](https://i.gifer.com/3Eqa.gif)
