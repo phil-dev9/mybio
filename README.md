@@ -11,4 +11,4 @@
 - Tailwind
 - Java
 
-![Currently coding...](https://github.com/philipkondrenko/philipkondrenko/blob/main/3Eqa.gif?raw=true?width=50)
+<img src="https://github.com/philipkondrenko/philipkondrenko/blob/main/3Eqa.gif?raw=true" width="75">
